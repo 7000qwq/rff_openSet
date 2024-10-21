@@ -1,0 +1,1 @@
+a2_1024_4l_BN:Epoch  100 train accuracy  0.8582677165354331  test accuracy  0.8545454545454545 LR 1e-06
